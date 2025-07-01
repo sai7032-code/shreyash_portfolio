@@ -170,7 +170,7 @@ export default function App() {
         <p>📞 +91 9130858424</p>
         <p>📍 Pune, Maharashtra, India</p>
         <div className="flex justify-center gap-6 mt-6">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-200 transition">
+          <a href="https://github.com/ShreyashAPatil" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-200 transition">
             <FaGithub size={30} />
           </a>
           <a href="https://linkedin.com/in/shreyash-patil-a875b91b2/" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-200 transition">
